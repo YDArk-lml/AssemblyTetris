@@ -1,6 +1,8 @@
 # AssemblyTetris
 It's a Tetris game in Assembly language. It offers speed options - slow, medium or fast. Moreover, it's well visualized, and also added functions like recording best scores and sound effects.
 # Tetris
+## Running gif
+![running gif](/screenshots/Tetris.gif?raw=true)
 
 ## Running screenshots
 
