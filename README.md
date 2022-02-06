@@ -4,10 +4,10 @@ It's a Tetris game in Assembly language. It offers speed options - slow, medium 
 
 ## Running screenshots
 
-1. welcome page ![welcome page](\screenshots\1.png)
+1. welcome page ![welcome page](/screenshots/1.png?raw=true)
 
-2. choose speed ![choose speed](\screenshots\2.png)
+2. choose speed ![choose speed](/screenshots/2.png?raw=true)
 
-3. game page ![game page](\screenshots\3.png)
+3. game page ![game page](/screenshots/3.png?raw=true)
 
-4. score page ![score page](\screenshots\4.png)
+4. score page ![score page](/screenshots/4.png?raw=true)
